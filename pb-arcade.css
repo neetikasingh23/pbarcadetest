@@ -9,7 +9,7 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   position: relative;
   overflow: hidden;
-  animation: slideIn 1s ease-out forwards;
+  animation: slideIn 2s ease-out forwards;
 }
 
 /* Headline */
@@ -91,4 +91,5 @@
   0% { transform: translateY(-50px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
+
 
