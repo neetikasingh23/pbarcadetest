@@ -1,10 +1,10 @@
 /* === PB Arcade Banner Container === */
 #pb-arcade {
-  background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+  background: linear-gradient(180deg, #8a2be2 0%, #ff69b4 50%, #87ceeb 100%);
   color: #fff;
-  font-family: 'Arial', sans-serif;
-  padding: 20px;
-  border-radius: 12px;
+  font-family: 'Press Start 2P', cursive, Arial, sans-serif;
+  padding: 0px;
+  border-radius: 0px;
   text-align: center;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   position: relative;
@@ -91,3 +91,4 @@
   0% { transform: translateY(-50px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
+
